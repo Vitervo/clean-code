@@ -1,5 +1,7 @@
 import './style.css'
 
+import './clean-code/04-homeworks';
+
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
